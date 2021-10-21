@@ -6,10 +6,17 @@ my_car = {
   "style" => 'sedan'
 }
 
-Tommy = {
+tommy = {
   "species" => 'cat'
   "color" => 'grey'
   "eyes" => 'green'
   "age" => 10
   "nickname" => 'Tomtom'
+}
+
+customer = {
+  "name" => 'Karen'
+  "is_good_tipper" => false
+  "ear piercings" => 6
+  "hairstyle" => 'pixie with highlights'
 }
